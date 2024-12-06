@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6fc9df0-edbc-4e9c-8349-b22f5af15ef1" name="Changes" comment="Segundo test de funcionamiento" />
+    <list default="true" id="f6fc9df0-edbc-4e9c-8349-b22f5af15ef1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gramatica.interp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gramatica.tokens" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gramaticaLexer.interp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gramaticaLexer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gramaticaLexer.tokens" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gramaticaListener.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gramaticaParser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gramaticaVisitor.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +59,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +86,7 @@
       <updated>1732204091738</updated>
       <workItem from="1732204092883" duration="1487000" />
       <workItem from="1733503660890" duration="4086000" />
+      <workItem from="1733507754422" duration="177000" />
     </task>
     <task id="LOCAL-00001" summary="Primer test de funcionamiento">
       <option name="closed" value="true" />
@@ -97,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733503693259</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Segundo test de funcionamiento">
+      <option name="closed" value="true" />
+      <created>1733507896154</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733507896154</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revert &quot;Segundo test de funcionamiento&quot;&#10;&#10;This reverts commit 2aa21cd5">
+      <option name="closed" value="true" />
+      <created>1733507918680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733507918680</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,11 +141,37 @@
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="dac79fa0-d89f-4f0f-8112-4a75b8c6be24" value="TOOL_WINDOW" />
+        <entry key="df6543a8-d37e-4f01-a084-00b66f891599" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="TAB_STATES">
       <map>
         <entry key="dac79fa0-d89f-4f0f-8112-4a75b8c6be24">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="df6543a8-d37e-4f01-a084-00b66f891599">
           <value>
             <State>
               <option name="FILTERS">
@@ -145,6 +202,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer test de funcionamiento" />
     <MESSAGE value="Segundo test de funcionamiento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo test de funcionamiento" />
+    <MESSAGE value="Revert &quot;Segundo test de funcionamiento&quot;&#10;&#10;This reverts commit 2aa21cd5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Segundo test de funcionamiento&quot;&#10;&#10;This reverts commit 2aa21cd5" />
   </component>
 </project>
