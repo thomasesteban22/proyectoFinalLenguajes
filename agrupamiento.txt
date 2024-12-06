@@ -1,0 +1,8 @@
+# Datos para agrupamiento
+datos = [[1,2], [1,3], [10,10], [10,11]];
+
+# Realizar agrupamiento con k=2
+grupos = clustering(datos, k=2);
+
+# Mostrar grupos asignados
+print(grupos);

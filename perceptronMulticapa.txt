@@ -1,0 +1,10 @@
+# Datos para clasificación
+entradas = [[0,0], [0,1], [1,0], [1,1]];
+salidas = [0, 1, 1, 0];  # Operación XOR
+
+# Entrenar perceptrón multicapa
+modelo = perceptron(entradas, salidas);
+
+# Realizar predicciones
+prediccion = modelo.predict([1, 0]);
+print(prediccion);
